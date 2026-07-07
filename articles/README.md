@@ -12,3 +12,8 @@
 4. 工程或产品启发。
 5. 边界和下一步。
 
+## 已迁入文章
+
+| 文件 | 主题 |
+| --- | --- |
+| [2026-06-17-fable5-agent-workflow-prompt-skill.md](2026-06-17-fable5-agent-workflow-prompt-skill.md) | Agent 主动性、Prompt/Skill 价值变化、验收能力 |

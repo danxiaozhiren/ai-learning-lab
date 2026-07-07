@@ -9,6 +9,13 @@
 - `articles/`: 对外或对内可发布的文章草稿，把学习结果讲清楚。
 - `reviews/`: 周/月复盘，保留学习取舍、下一步方向和阶段性判断。
 
+分类时同时看两件事：
+
+- 内容主题放进 `topics/`，例如 agent、models、RAG、evals、AI infra、AI product。
+- 产出形态放进 `notes/`、`experiments/`、`articles/` 或 `reviews/`。
+
+这样这个仓库以后可以继续扩展到更多 AI 方向，而不会被当前的 Agent/Loop Engineering 主题限制住。迁入规则见 [04-classification-and-intake.md](04-classification-and-intake.md)。
+
 ## 学习主线
 
 当前先按 6 条主线组织，后续可以根据兴趣和工作需要调整：
@@ -36,6 +43,7 @@
 ├── 01-learning-roadmap.md
 ├── 02-topic-map.md
 ├── 03-output-plan.md
+├── 04-classification-and-intake.md
 ├── notes/
 ├── experiments/
 ├── articles/
@@ -50,4 +58,3 @@
 - 每条笔记必须写清楚来源、日期、核心观点、可验证结论和个人判断。
 - 不追求一次学全，优先沉淀能复用的概念、代码、架构图和判断框架。
 - 对“最新技术”的判断必须带日期，因为 AI 领域变化很快。
-
